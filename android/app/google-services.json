@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "5801340474",
+    "project_id": "kadradi-189617"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5801340474:android:f1c64baab30995ff",
+        "android_client_info": {
+          "package_name": "com.kadradi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5801340474-dk0f6tgpebl853sinfbb3sjpa8ndiq08.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "5801340474-sqvrp4capu1ij0l2jvtfe729ppfgoata.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "5801340474-o37bnpgkuhllvbcd7ide3d4pim1r9356.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadradi",
+            "certificate_hash": "5d5b23744b5c6d67c9dad4660afe1385de42ceda"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZX19YJpgVx-x90bjjX_L4cwnIfIa_0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

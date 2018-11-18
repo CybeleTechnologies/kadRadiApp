@@ -1,0 +1,9 @@
+1. na listi kad dodjes na stranu prvo po oceni i da rade a posle po oceni i oni koji ne rade.
+2. radno vreme u koliko nema specijalne odseke ostaje plava pozadina celom duzinom a radno vreme ide u centar
+3. kalendar izbacujemo a specijalno radno vreme ostaje specijalno radno se menja na strelice ili swipe
+4. ocene i utisci na klik da nestane.
+5. ocene i utisci kad kliknes promeni background kolor.
+6. vidi vise ocena da odvece na listu svih ocena ukoliko nema ocena prikazati nema trenutno ocena i skloniti vidi vise ocena.
+
+
+

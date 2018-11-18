@@ -1,0 +1,1 @@
+alias dt='cd ~/Desktop/'
